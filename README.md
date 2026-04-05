@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-# Faizan Khalid 🚀  <br>💻 Frontend Developer | 🎨 UI/UX Designer  <br>⚡ Building modern, responsive, and user-focused digital products  <br>🌱 Learning | Creating | Growing
+# Faizan Khalid 🚀  <br>💻 Frontend Developer | 🎨 UI/UX Designer | 🧠 Digital Logic Design  <br>⚡ Building modern, responsive, and user-focused digital products  <br>🌱 Learning | Creating | Growing
 
 
 ## 🌐 Socials:
