@@ -1,6 +1,8 @@
-# 👨‍💻 About Me:
-# Faizan Khalid 🚀<br>🖥️ Full Stack Developer | ⚙️ Backend & API Developer  | 🎨 UI/UX Designer | 🧠 Digital Logic Design  <br>⚡ Building modern, responsive, and user-focused digital products  <br>🌱 Learning | Creating | Growing
-
+# Faizan Khalid 🚀
+🖥️ Full Stack Developer | ⚙️ Backend & API Developer | 🤖 Building AI Agents | 🎨 UI/UX Designer | 🧠 Digital Logic Design
+⚡ Building modern, responsive, secure, and AI-powered digital products
+🌱 Learning | Creating | Growing | Shipping
+💼 2x Intern | 🏆 Anthropic Certified | 🎓 CS @ Bahria University '29
 
 ## 🌐 Socials:
 
