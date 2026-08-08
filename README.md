@@ -1,9 +1,12 @@
 # Faizan Khalid 🚀
-🖥️ Full Stack Developer | ⚙️ Backend & API Developer | 🤖 Building AI Agents | 🎨 UI/UX Designer | 🧠 Digital Logic Design
-⚡ Building modern, responsive, secure, and AI-powered digital products
-🌱 Learning | Creating | Growing | Shipping
-💼 2x Intern | 🏆 Anthropic Certified | 🎓 CS @ Bahria University '29
 
+🖥️ Full Stack Developer | ⚙️ Backend & API Developer | 🤖 Building AI Agents | 🎨 UI/UX Designer | 🧠 Digital Logic Design
+
+⚡ Building modern, responsive, secure, and AI-powered digital products
+
+🌱 Learning | Creating | Growing | Shipping
+
+💼 2x Intern &nbsp;|&nbsp; 🏆 Anthropic Certified &nbsp;|&nbsp; 🎓 CS @ Bahria University '29
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/faizan-khalid-b95140395) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalidfaizan922@gmail.com) [![Upwork](https://img.shields.io/badge/Upwork-14A800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016140641ec807b5f6) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/faizan_khalid61/buying?source=avatar_menu_profile)
