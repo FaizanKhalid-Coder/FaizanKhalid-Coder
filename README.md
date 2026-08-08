@@ -1,4 +1,4 @@
-# Faizan Khalid 🚀<br>🖥️ Full Stack Developer | 🤖 Building AI Agents | ⚙️ Backend & API Developer  | 🎨 UI/UX Designer | 🧠 Digital Logic Design  <br>⚡ Building modern, responsive, and user-focused digital products  <br>🌱 Learning | Creating | Growing
+# Faizan Khalid 🚀<br>🖥️ Full Stack Developer | 🤖 Building AI Agents | ⚙️ Backend & API Developer  | 🎨 UI/UX Designer | 🧠 Digital Logic Design  <br>⚡ Building modern, responsive, and user-focused digital products  <br>🌱 Learning | Creating | Growing | Shipping
 
 
 ## 🌐 Socials:
